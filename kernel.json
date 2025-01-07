@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "C:\\b\\abs_c2u94kxcy6\\croot\\ipykernel_1705933907920\\_h_env\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": false
+ }
+}
